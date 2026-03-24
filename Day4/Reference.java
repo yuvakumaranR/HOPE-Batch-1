@@ -5,7 +5,7 @@ public class Reference {
         int[] arr2=arr;
         System.out.println(arr2.toString());
         arr[0]=10;
-        arr2[1]=20;
+        arr2[1]=20; 
         System.out.println(arr[1]+" "+arr2[0]);
          
         String[] str={"hello","world"};
