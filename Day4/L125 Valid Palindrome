@@ -8,7 +8,7 @@ class Solution {
         if(!Character.isLetterOrDigit(left))
         {
             i++;
-            continue;
+            continue; 
         }
         if(!Character.isLetterOrDigit(right))
         {
