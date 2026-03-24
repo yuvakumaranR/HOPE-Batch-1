@@ -1,7 +1,7 @@
 public class Parameters {
     public static void main(String[] args){
         ParameterAndReturn obj=new ParameterAndReturn();
-        int a=5,b=10;
+        int a=5,b=10; 
         System.out.println(sum1(a,b));
         System.out.println(sum2());
         obj.sum3(a,b);
