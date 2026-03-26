@@ -1,4 +1,4 @@
-public class Inherit {
+public class Inheritance {
     public static void main(String[] args) {
         Dog c=new Puppy();
         c.bark();
