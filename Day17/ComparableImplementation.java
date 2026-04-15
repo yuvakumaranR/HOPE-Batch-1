@@ -1,4 +1,3 @@
-package Day_17.Concepts_Code;
 import java.util.*;
 
     class Student implements Comparable<Student>{
